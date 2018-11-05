@@ -1,6 +1,6 @@
 # IttyBit-yProgrammingCommittee
 
-<a name="team-members"></a>Team Members
+<a name="team-members"></a><h2>Team Members</h2>
 * Cynthia Okuno
 * Chad Delp
 
