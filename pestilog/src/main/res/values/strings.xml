@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">hacc_app</string>
+    <string name="app_name">pesti_log</string>
     <string name="title_activity_maps">Pesti-log</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
