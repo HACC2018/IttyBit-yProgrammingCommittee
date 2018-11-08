@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IttyBit-yProgrammingCommittee.iml" filepath="$PROJECT_DIR$/IttyBit-yProgrammingCommittee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pestilog/pestilog.iml" filepath="$PROJECT_DIR$/pestilog/pestilog.iml" />
+    </modules>
+  </component>
+</project>
