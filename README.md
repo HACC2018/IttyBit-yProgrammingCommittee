@@ -14,5 +14,6 @@ Pestilog is an Android app that automates and simplifies completion of the Depar
 To use, hit the "Start" button, and carry the app while applying pesticide to an area. Current date, windspeed, and temperature will be logged. Your address will be obtained, and your movement will be tracked in order to calculate area. Once finished, press the "Stop" button. Fill in the required pesticide information on the following page, then hit "Next". You will be taken to a Results page with the completed form ready for your review.
 
 <a name="demo-video"></a><h3>Demo Video</h3>
+[Video] (https://youtu.be/qjqJ51i4OPc)
 <insert link>
 
