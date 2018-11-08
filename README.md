@@ -8,7 +8,7 @@
 Pestilog is an Android app that automates and simplifies completion of the Department of Agriculture's "Restricted Use Pesticide Application Record".
 
 <a name="instructions"></a><h3>Instructions</h3>
-* Side load apk file (pestilog-debug.apk) onto Android phone, then click to install. Ensure your phone is set to allow installation from unknown sources. Some phones prompt for this setting, while others require the user to find it themselves.
+* Side load apk file (pestilog-debug.apk in "apk" folder) onto Android phone, then click to install. Ensure your phone is set to allow installation from unknown sources. Some phones prompt for this setting, while others require the user to find it themselves.
 * Or, download code, open as project in Android Studio, and run on attached phone. (Hit OK if prompted to change directory info when first openning code in Android Studio).
 * ** App will crash upon first loading due to error with permissions request. Please allow location permission, then reopen the app.
 
